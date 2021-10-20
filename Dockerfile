@@ -1,3 +1,3 @@
 FROM httpd
 
-COPY index.php /usr/local/apache2/htdocs/
+COPY test.html /usr/local/apache2/htdocs/
